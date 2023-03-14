@@ -10,7 +10,8 @@ SVG Logo Maker is Node.js application that accepts user input and creates svg fi
 <!-- TOC -->
 
  ## Preview
-[](./examples/WalkthroughVideo.webm)
+https://drive.google.com/file/d/1C7IkREsNk4aQn-eqm3Nul684LJ9eIM09/view
+
 
 ## Features
 
